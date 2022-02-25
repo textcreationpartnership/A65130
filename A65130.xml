@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Vision</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65130</idno>
+            <idno type="STC">Wing V657</idno>
+            <idno type="STC">ESTC R652</idno>
+            <idno type="EEBO-CITATION">12879948</idno>
+            <idno type="OCLC">ocm 12879948</idno>
+            <idno type="VID">94913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Vision</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1688-89]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers.</term>
+               <term>Visions.</term>
+               <term>Dreams --  Poetry.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:94913:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>The Viſion.</head>
+            <lg>
+               <l>'TWas at an hour when buſie Nature lay</l>
+               <l>Diſſolv'd in ſlumbers from the noiſy Day,</l>
+               <l>When gloomy Shades and dusky Atomes ſpread</l>
+               <l>A darkneſs o're this Univerſal Bed,</l>
+               <l>And all the gaudy beams of light were fled;</l>
+               <l>My flutt'ring fancy 'midſt this ſilent peace,</l>
+               <l>Careleſs of ſleep, and unconcern'd with eaſe,</l>
+               <l>Drew to my wandring thoughts an object near,</l>
+               <l>Strange in its form, and in appearance rare.</l>
+               <l>Methought (yet ſure it cou'd not be a Dream,</l>
+               <l>So real all its Imperfections ſeem)</l>
+               <l>With Princely Port a ſtately Monarch came,</l>
+               <l>Airy was his mien, and Noble was his frame.</l>
+               <l>A ſullen ſorrow brooded on his Brow;</l>
+               <l>He ſeem'd beneath ſome weighty Fate to bow;</l>
+               <l>Diſtruſt and Grief upon his-Eyelids reſt,</l>
+               <l>And ſhow the ſtrugling troubles of his Breaſt.</l>
+               <l>Upon his Head a nodding Crown he wore,</l>
+               <l>And in his Hand a yielding Scepter bore;</l>
+               <l>Forlorn and careleſs did his ſtrokes appear,</l>
+               <l>And every motion ſpoke a Wild Diſpair.</l>
+            </lg>
+            <lg>
+               <l>This mournful Scene did all my paſſions move,</l>
+               <l>And challeng'd both my pity and my love,</l>
+               <l>And yet I thought him by the ruins made</l>
+               <l>Above my pity, and beyond my aid;</l>
+               <l>Long did he in a penſive ſilence ſtand,</l>
+               <l>For ſure his thoughts cou'd not his words command:</l>
+               <l>Too big for Speech—</l>
+               <l>Till ſullen murmurs from his boſom flew,</l>
+               <l>And thus a draught of his diſorders drew.</l>
+            </lg>
+            <lg>
+               <l>Almighty Powers! By whoſe conſent alone</l>
+               <l>Ordain'd, I did aſcend the Rega<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Throne,</l>
+               <l>Led by your dark Decrees and Conduct there,</l>
+               <l>I, as your great Vicegerent, did appear</l>
+               <l>Beneath my Charge, whilſt crowding Nations ſate</l>
+               <l>And bow'd and did admire my riſing Fate,</l>
+               <l>'Twas then my Laurels freſh and blooming grew,</l>
+               <l>And a loud fame of all my Glories flew;</l>
+               <l>My willing Subjects bleſs and clap the day,</l>
+               <l>The braveſt and the beſt were all my friends,</l>
+               <l>Whilſt Faction in confuſion ſneak'd away;</l>
+               <l>At diſtance grinn'd, but cou'd not reach their ends.</l>
+            </lg>
+            <lg>
+               <l>Such Faith unto my promiſes were ſhown,</l>
+               <l>My Word, the took for Oaths were uſeleſs grown;</l>
+               <l>My very Word compos'd their hopes and fears,</l>
+               <l>Sacred 'twas held, and all ſerene appears.</l>
+            </lg>
+            <lg>
+               <l>Until my fate revers'd did backwards reel,</l>
+               <l>Blurr'd all my Fame, and alter'd Fortunes Wheel;</l>
+               <l>Ye Gods! Why did ye thus unconſtant prove?</l>
+               <l>Was I the Envy of th' Abodes above?</l>
+               <l>Or was this ſtately Majeſty but given</l>
+               <l>To be the Cheat and Flatt'ry ev'n of Heaven?</l>
+               <l>Can ne're a Saint implore Coeleſtial aid?</l>
+               <l>Nor yet the Virgin Goddeſs Interceed?</l>
+               <l>'Twas for her her Cauſe engag'd I ſuff'ring lye;</l>
+               <l>'Twas to advance her juſt Divinity:</l>
+               <l>Yes, I avow the Quarrel and the Cauſe,</l>
+               <l>'Twas for my Faith, and to out-cope the Laws.</l>
+               <l>I'de rather be forſaken and alone,</l>
+               <l>Than ſit a craving Monarch on a Throne:</l>
+               <l>Let all my cringing Slaves at diſtance ſtand,</l>
+               <l>Fawn on th' Invading Foe, and kiſs his Hand;</l>
+               <l>Leave me, their Prince, farſaken and forlorn,</l>
+               <l>Expos'd to all their ſlights and publick ſcorn:</l>
+               <l>Let after Ages judge the mighty Teſt,</l>
+               <l>Judge the Magnific Grandure of my breaſt.</l>
+               <l>I ſaw my great forefather yet afore</l>
+               <l>Seal all his Sacred Vows with Martyr'd gore;</l>
+               <l>His Royal Iſſue blanded with diſgrace,</l>
+               <l>Saw all th' Efforts they us'd t' Exclude the Race;</l>
+               <l>And yet theſe Terrours all I dare invade,</l>
+               <l>Thus Conſcience, thus Religion does perſwade.</l>
+               <l>I'll ſtand or fall by both thoſe Tenets ſtill,</l>
+               <l>And be the ſecond Martyr to my Will;</l>
+               <l>And then he ſtop'd, his fiery Eye-Balls move,</l>
+               <l>And thus with his reſiſting Fate he ſtrove,</l>
+               <l>And ſtood, like <hi>Capaneus</hi> Defying <hi>Jove.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When ſtrait a noiſe, from whence it came unknown,</l>
+               <l>Was heard to anſwer in an angry tone;</l>
+               <l>Dye then unpity'd Prince, for thus thy Fate</l>
+               <l>Long ſince, by its Decrees, did antidate:</l>
+               <l>To ſuch perverſneſs, what regard is ſhown,</l>
+               <l>What Merit coud'ſt thou plead to mount a Throne?</l>
+               <l>To thy repeated Wiſhes Heav'n was kind,</l>
+               <l>And pleas'd the wild Ambition of thy mind;</l>
+               <l>It put a Scepter in thy eager Hand,</l>
+               <l>Yet not t'oppoſe the Genius of the Land;</l>
+               <l>If Reaſon cou'd not ſway thy Actions here,</l>
+               <l>Heav'ns not oblig'd by Wonders to appear.</l>
+            </lg>
+            <lg>
+               <l>See how thy Creatures at a diſtance ſtand,</l>
+               <l>Skulk from thy troubles to a ſafer Land;</l>
+               <l>Thoſe who their Beings to thy bounty own,</l>
+               <l>Forſake their fawning Cheats, and now are gone.</l>
+               <l>Thoſe who were Friends to thee and to thy Cauſe,</l>
+               <l>Bold for their Rights, and for their Countries Cauſe,</l>
+               <l>Thou, from thy darker Counſels, did'ſt remove.</l>
+               <l>And want their aid now they refuſe their love.</l>
+               <l>Some more imperfect ſounds did reach my Ear,</l>
+               <l>But ſenſe returned, and day light did appear.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
